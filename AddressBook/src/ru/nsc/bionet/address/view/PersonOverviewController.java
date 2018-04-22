@@ -1,11 +1,11 @@
-package ru.nsc.bionet.view;
+package ru.nsc.bionet.address.view;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import ru.nsc.bionet.address.MainAPP;
-import ru.nsc.bionet.model.Person;
+import ru.nsc.bionet.address.model.Person;
 
 public class PersonOverviewController {
 	@FXML
